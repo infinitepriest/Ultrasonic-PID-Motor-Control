@@ -174,11 +174,12 @@ docs/project_report.pdf
 ---
 
 # **Author**
+
 # **Ayushman Mishra**  
 
-LinkedIn: https://www.linkedin.com/in/aymisxx
+LinkedIn: https://www.linkedin.com/in/infinitepriest
 
-GitHub: https://github.com/aymisxx
+GitHub: https://github.com/infinitepriest
 
 ## **License**
 This project is licensed under the MIT License.
